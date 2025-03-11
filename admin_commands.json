@@ -1,0 +1,3 @@
+{
+  "allowed_admin_commands": ["play", "stop", "pause", "resume", "skip"]
+}
